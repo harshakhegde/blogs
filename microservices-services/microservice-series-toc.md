@@ -6,12 +6,14 @@
 	- Principles, Definition
 - Is Microservice the new Avatar of Service Oriented Architecture?
 	- How microservice is not SOA+1, What microservice is NOT
-- Microservice? No thanks! I have stable Monolith
+- Don't lure me to Microservice buzz? I have stable Monolith
 	- Benefits of microservice
+	- It is not about one microservice, it is the ecosystem
 	- On Coupling and Cohesion
 	- How to evolve the architecture mono -> micro? Patterns like strangler fig, Branch by Abstraction...
 	- Case study of mono -> micro
 - Common pitfalls
+	- Biggest toolset change is the mindset
 - Building a product new? How to bootstrap your architecture, the microservice way
 	- Case study -> Binge on Netflix
 - Metrics-Microservices: Hand in glove with Microservices
@@ -39,12 +41,14 @@
 #### Principles, Definition
 ### Is Microservice the new Avatar of Service Oriented Architecture?
 #### How microservice is not SOA+1, What microservice is NOT
-### Microservice? No thanks! I have stable Monolith
+### Don't lure me to Microservice buzz? I have stable Monolith
 #### Benefits of microservice
+#### It is not about one microservice, it is the ecosystem
 #### On Coupling and Cohesion
 #### How to evolve the architecture mono -> micro? Patterns like strangler fig, Branch by Abstraction...
 #### Case study of mono -> micro
 ### Common pitfalls
+#### Biggest toolset change is the mindset
 ### Building a product new? How to bootstrap your architecture, the microservice way
 #### Case study -> Binge on Netflix
 ### Metrics-Microservices: Hand in glove with Microservices
