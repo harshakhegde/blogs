@@ -1,6 +1,6 @@
 <!-- MarkdownTOC -->
 
-- Microservice - What to do first?
+- Microservice - Getting Started
 	- Engineering Culture
 - What is microservice?
 	- Principles, Definition
@@ -35,7 +35,7 @@
 	- Deploy frequently
 
 <!-- /MarkdownTOC -->
-### Microservice - What to do first? 
+### Microservice - Getting Started
 #### Engineering Culture
 ### What is microservice?
 #### Principles, Definition
